@@ -20,7 +20,7 @@
 
 /*&px classification: default = HS*/			%let px='HS';
 
-/*&ps time period: default = now*/				%let ps='2015';
+/*&ps time period: default = now*/				%let ps='2017';
 
 /*&r reporting area: default = 0*/				%let r='all';
 
